@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>http://123.com/index.html</loc>
+    <lastmod>2019-08-07</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://123.com/images/logo_rgb-05.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://123.com/images/grennail.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://123.com/images/blue-nail.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://123.com/images/pinknail.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://123.com/images/grennail260x343.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://123.com/images/grennail142x188.jpg</image:loc>
+    </image:image>
+  </url>
+</urlset>
